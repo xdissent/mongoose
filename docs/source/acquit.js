@@ -19,6 +19,11 @@ var files = [
     input: 'test/docs/promises.test.js',
     output: 'promises.html',
     title: 'Promises'
+  },
+  {
+    input: 'test/docs/models.test.js',
+    output: 'models.html',
+    title: 'Models'
   }
 ];
 
